@@ -66,6 +66,8 @@ table {
 
 body {
 	-webkit-text-size-adjust: none;
+	max-width: 100%;
+    	overflow-x: hidden;
 }
 
 mark {
